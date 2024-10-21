@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = renaud06200@hotmail.fr
+	name = Renaud Fighiera
